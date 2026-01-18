@@ -1,0 +1,1005 @@
+[17-Jan-2026 19:44:26 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:44:26 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:44:26 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:44:26 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:44:26 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:44:26 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:45:41 UTC] PHP Parse error:  Unclosed '{' on line 73 in /home/hubb895940/public_html/generate-link.php on line 87
+[17-Jan-2026 19:45:44 UTC] PHP Parse error:  Unclosed '{' on line 73 in /home/hubb895940/public_html/generate-link.php on line 87
+[17-Jan-2026 19:46:09 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:09 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:09 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:09 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:46:09 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:46:09 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:46:18 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:18 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:18 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:18 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:46:18 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:46:18 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:46:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:46:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:46:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:46:58 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:47:03 UTC] PHP Parse error:  Unclosed '{' on line 73 in /home/hubb895940/public_html/generate-link.php on line 87
+[17-Jan-2026 19:49:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[17-Jan-2026 19:49:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[17-Jan-2026 19:49:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[17-Jan-2026 19:49:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[17-Jan-2026 19:49:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[17-Jan-2026 19:49:24 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[17-Jan-2026 19:50:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[17-Jan-2026 19:50:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[17-Jan-2026 19:50:07 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[17-Jan-2026 19:50:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[17-Jan-2026 19:50:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[17-Jan-2026 19:50:07 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[17-Jan-2026 19:55:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:55:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:55:54 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:55:54 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 19:55:54 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 19:55:54 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 19:56:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:56:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:56:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:56:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 19:56:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 19:56:25 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 19:57:30 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:57:30 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:57:30 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 19:57:30 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:57:30 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:57:30 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 19:57:36 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:57:36 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:57:36 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 19:57:36 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 19:57:36 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 19:57:36 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 20:01:00 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[17-Jan-2026 20:01:00 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[17-Jan-2026 20:01:00 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[17-Jan-2026 20:01:00 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[17-Jan-2026 20:01:00 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[17-Jan-2026 20:01:00 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[17-Jan-2026 20:09:23 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 20:09:23 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 20:09:23 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[17-Jan-2026 20:09:23 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 20:09:23 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 20:09:23 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[17-Jan-2026 20:19:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[17-Jan-2026 20:19:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[17-Jan-2026 20:19:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[17-Jan-2026 20:19:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[17-Jan-2026 20:19:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[17-Jan-2026 20:19:24 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[17-Jan-2026 20:19:33 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 162
+[17-Jan-2026 20:19:33 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 162
+[17-Jan-2026 20:19:33 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/reports.php on line 162
+[17-Jan-2026 20:19:33 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 166
+[17-Jan-2026 20:19:33 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 166
+[17-Jan-2026 20:19:33 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/reports.php on line 166
+[17-Jan-2026 20:54:30 UTC] PHP Warning:  include(partials/header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/settings.php on line 267
+[17-Jan-2026 20:54:30 UTC] PHP Warning:  include(partials/header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/settings.php on line 267
+[17-Jan-2026 20:54:30 UTC] PHP Warning:  include(): Failed opening 'partials/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/settings.php on line 267
+[17-Jan-2026 20:54:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 20:54:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 20:54:57 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[17-Jan-2026 20:54:57 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 20:54:57 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 20:54:57 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[17-Jan-2026 20:55:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[17-Jan-2026 20:55:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[17-Jan-2026 20:55:07 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[17-Jan-2026 20:55:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[17-Jan-2026 20:55:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[17-Jan-2026 20:55:07 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 01:57:46 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:57:46 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:57:46 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:57:46 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:57:46 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:57:46 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:58:18 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:58:18 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:58:18 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:58:18 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:58:18 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:58:18 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:58:48 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:58:48 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:58:48 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:58:48 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:58:48 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:58:48 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:59:32 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 01:59:32 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 01:59:32 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 01:59:32 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 01:59:32 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 01:59:32 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 01:59:38 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 01:59:38 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 01:59:38 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 01:59:38 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 01:59:38 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 01:59:38 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 01:59:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:59:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:59:54 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 01:59:54 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:59:54 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 01:59:54 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 02:00:05 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:00:05 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:00:05 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:00:05 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:00:05 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:00:05 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:00:17 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 162
+[18-Jan-2026 02:00:17 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 162
+[18-Jan-2026 02:00:17 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/reports.php on line 162
+[18-Jan-2026 02:00:17 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 166
+[18-Jan-2026 02:00:17 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 166
+[18-Jan-2026 02:00:17 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/reports.php on line 166
+[18-Jan-2026 02:04:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 02:04:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 02:04:07 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 02:04:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 02:04:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 02:04:07 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 02:04:30 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 02:04:30 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 02:04:30 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 02:04:30 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 02:04:30 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 02:04:30 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 02:09:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 162
+[18-Jan-2026 02:09:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 162
+[18-Jan-2026 02:09:54 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/reports.php on line 162
+[18-Jan-2026 02:09:54 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 166
+[18-Jan-2026 02:09:54 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/reports.php on line 166
+[18-Jan-2026 02:09:54 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/reports.php on line 166
+[18-Jan-2026 02:13:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 02:14:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 02:14:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 02:14:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 02:14:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 02:15:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:15:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:15:07 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:15:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:15:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:15:07 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:15:08 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:08 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:08 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:08 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:15:08 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:15:08 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:15:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 02:15:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 02:15:28 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:15:28 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:15:28 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:15:28 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:15:28 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:15:28 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:15:43 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:43 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:43 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:43 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:15:43 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:15:43 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:15:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:57 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:15:57 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:15:57 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:15:57 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:01 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:01 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:01 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:01 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:01 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:01 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:05 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:16:05 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:16:05 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 02:16:05 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:16:05 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:16:05 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 02:16:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:14 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:14 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:14 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:14 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:21 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:21 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:21 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 02:16:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:24 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 02:16:27 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:16:27 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:16:27 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:16:27 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:16:27 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:16:27 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:35:33 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:35:33 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:35:33 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:35:33 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:35:33 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:35:33 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:36:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:36:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:36:04 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:36:04 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:36:04 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:36:04 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:39:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:39:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:39:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 02:39:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:39:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 02:39:25 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:11:16 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:11:16 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:11:16 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:11:16 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:11:16 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:11:16 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:11:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:11:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:11:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:11:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:11:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:11:24 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:11:51 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:11:51 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:11:51 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:11:51 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:11:51 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:11:51 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:14:05 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:14:05 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:14:05 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:14:05 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:14:05 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:14:05 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:18:48 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:18:48 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:18:48 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:18:48 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:18:48 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:18:48 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:18:55 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:18:55 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:18:55 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:18:55 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:18:55 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:18:55 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:19:00 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:19:00 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:19:00 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:19:00 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:19:00 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:19:00 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:20:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'SET' in /home/hubb895940/public_html/upi.php:137
+Stack trace:
+#0 /home/hubb895940/public_html/upi.php(137): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hubb895940/public_html/upi.php on line 137
+[18-Jan-2026 03:20:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'SET' in /home/hubb895940/public_html/upi.php:137
+Stack trace:
+#0 /home/hubb895940/public_html/upi.php(137): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hubb895940/public_html/upi.php on line 137
+[18-Jan-2026 03:21:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:21:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:21:04 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:21:04 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:21:04 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:21:04 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:21:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 03:22:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 03:22:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:22:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:22:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:22:21 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:22:21 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:22:21 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:22:26 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:22:26 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:22:26 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:22:26 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:22:26 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:22:26 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:22:50 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:22:50 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:22:50 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:22:50 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:22:50 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:22:50 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:26:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:26:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:26:14 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:26:14 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:26:14 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:26:14 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:26:18 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:26:18 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:26:18 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:26:18 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:26:18 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:26:18 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:26:51 UTC] PHP Warning:  A non-numeric value encountered in /home/hubb895940/public_html/settings.php on line 1175
+[18-Jan-2026 03:27:00 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 03:27:00 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 03:27:00 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 03:27:00 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 03:27:00 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 03:27:00 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 03:27:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:27:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:27:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:27:19 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:27:19 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:27:19 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:27:39 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:27:39 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:27:39 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:27:39 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:27:39 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:27:39 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:29:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:29:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:29:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:29:19 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:29:19 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:29:19 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:30:55 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:30:55 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:30:55 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:30:55 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:30:55 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:30:55 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:31:06 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:31:06 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:31:06 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:31:06 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:31:06 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:31:06 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:31:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:31:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:31:22 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:31:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:31:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:31:22 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:31:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:31:54 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:31:54 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:31:54 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:31:54 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:31:54 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:32:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:32:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:32:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:32:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:32:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:32:25 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:32:35 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:32:35 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:32:35 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:32:35 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:32:35 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:32:35 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:35:08 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:35:08 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:35:08 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:35:08 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:35:08 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:35:08 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:35:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 03:35:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 03:35:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 03:36:56 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:36:56 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:36:56 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:36:56 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:36:56 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:36:56 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:36:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:36:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:36:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:36:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:36:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:36:58 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:24 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:24 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:24 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:50 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:50 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:50 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:50 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:50 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:50 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:37:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:37:58 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:38:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:38:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:38:04 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:38:04 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:38:04 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:38:04 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:40:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:40:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:40:07 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:40:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:40:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:40:07 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:40:33 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:40:33 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:40:33 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:40:33 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:40:33 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:40:33 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:40:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hubb895940/public_html/settings.php on line 1175
+[18-Jan-2026 03:40:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:40:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:40:57 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:40:57 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:40:57 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:40:57 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:41:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:41:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:41:22 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:41:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:41:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:41:22 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:42:23 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:42:23 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:42:23 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:42:23 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:42:23 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:42:23 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:44:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:44:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:44:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:44:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:44:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:44:25 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:44:42 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:44:42 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:44:42 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:44:42 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:44:42 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:44:42 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:45:46 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:45:46 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:45:46 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:45:46 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:45:46 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:45:46 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:47:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:47:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:47:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 03:47:20 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:47:20 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:47:20 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 03:47:41 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:47:41 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:47:41 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:47:41 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:47:41 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:47:41 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:50:08 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:50:08 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:50:08 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:50:08 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:50:08 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:50:08 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:50:12 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:50:12 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:50:12 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:50:12 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:50:12 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:50:12 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:50:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:50:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:50:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:50:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:50:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:50:25 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:50:28 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:50:28 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:50:28 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:50:28 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:50:28 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:50:28 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:50:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:50:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:50:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 03:50:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:50:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:50:58 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 03:52:27 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:52:27 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:52:27 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 03:52:27 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:52:27 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:52:27 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 03:52:30 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:52:30 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:52:30 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:52:30 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:52:30 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:52:30 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:52:35 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:52:35 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:52:35 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:52:35 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:52:35 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:52:35 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:53:09 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:53:09 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:53:09 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:53:09 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:53:09 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:53:09 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:53:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:53:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:53:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:53:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:53:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:53:58 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:55:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:55:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:55:14 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:55:14 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:55:14 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:55:14 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:58:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 03:59:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 03:59:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/hubb895940/public_html/dashboard.php:154
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(154): PDOStatement->execute(Array)
+#1 /home/hubb895940/public_html/dashboard.php(344): getDashboardStats(Object(PDO), 1, 'superadmin')
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 154
+[18-Jan-2026 03:59:56 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:59:56 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:59:56 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 03:59:56 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:59:56 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 03:59:56 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:00:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:00:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:00:57 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:00:57 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:00:57 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:00:57 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:01:35 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:01:35 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:01:35 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:01:35 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:01:35 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:01:35 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:02:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:02:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:02:07 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:02:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:02:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:02:07 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:05:50 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:05:50 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:05:50 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:05:50 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:05:50 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:05:50 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:05:56 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:05:56 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:05:56 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:05:56 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:05:56 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:05:56 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:06:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 882
+[18-Jan-2026 04:06:17 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 893
+[18-Jan-2026 04:06:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 1790
+[18-Jan-2026 04:06:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 882
+[18-Jan-2026 04:06:25 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 893
+[18-Jan-2026 04:06:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 1790
+[18-Jan-2026 04:06:40 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 882
+[18-Jan-2026 04:06:40 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 893
+[18-Jan-2026 04:06:40 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 1790
+[18-Jan-2026 04:06:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 882
+[18-Jan-2026 04:06:53 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 893
+[18-Jan-2026 04:06:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/dashboard.php on line 1790
+[18-Jan-2026 04:07:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:07:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:07:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:07:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:07:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:07:25 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:07:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/daashboard.php on line 882
+[18-Jan-2026 04:07:45 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/daashboard.php on line 893
+[18-Jan-2026 04:07:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/daashboard.php on line 1790
+[18-Jan-2026 04:07:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/daashboard.php on line 882
+[18-Jan-2026 04:07:58 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/daashboard.php on line 893
+[18-Jan-2026 04:07:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hubb895940/public_html/daashboard.php on line 1790
+[18-Jan-2026 04:10:32 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 04:10:32 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 04:10:32 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 04:10:32 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 04:10:32 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 04:10:32 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 04:10:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:10:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:10:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:10:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:10:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:10:58 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:11:13 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:11:13 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:11:13 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:11:13 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:11:13 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:11:13 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:13:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:13:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:13:14 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 04:13:14 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:13:14 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:13:14 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 04:24:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:24:07 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:24:07 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:24:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:24:07 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:24:07 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:24:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:24:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:24:22 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:24:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:24:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:24:22 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:29:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/daashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/daashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/daashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/daashboard.php on line 119
+[18-Jan-2026 04:29:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/daashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/daashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/daashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/daashboard.php on line 119
+[18-Jan-2026 04:29:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/daashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/daashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/daashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/daashboard.php on line 119
+[18-Jan-2026 04:30:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/daashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/daashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/daashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/daashboard.php on line 119
+[18-Jan-2026 04:30:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/dashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/dashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 119
+[18-Jan-2026 04:31:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/dashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/dashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 119
+[18-Jan-2026 04:32:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:32:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:32:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 04:32:20 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:32:20 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:32:20 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 04:43:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/dashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/dashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 119
+[18-Jan-2026 04:43:59 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:43:59 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:43:59 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:43:59 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:43:59 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:43:59 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:50:43 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 04:50:43 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 04:50:43 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 04:50:43 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 04:50:43 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 04:50:43 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 04:51:06 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:51:06 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:51:06 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 04:51:06 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:51:06 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:51:06 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 04:52:42 UTC] PHP Warning:  A non-numeric value encountered in /home/hubb895940/public_html/settings.php on line 1175
+[18-Jan-2026 04:54:21 UTC] PHP Warning:  A non-numeric value encountered in /home/hubb895940/public_html/settings.php on line 1175
+[18-Jan-2026 06:01:28 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 06:01:28 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 06:01:28 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 06:01:28 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 06:01:28 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 06:01:28 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 06:01:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/dashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/dashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 119
+[18-Jan-2026 06:03:52 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:03:52 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:03:52 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:03:52 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:03:52 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:03:52 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:04:52 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:04:52 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:04:52 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:04:52 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:04:52 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:04:52 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:04:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:04:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:04:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:04:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:04:58 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:04:58 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:48:34 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:48:34 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:48:34 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 06:48:34 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:48:34 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:48:34 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 06:48:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/dashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/dashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 119
+[18-Jan-2026 06:49:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/dashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/dashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 119
+[18-Jan-2026 06:50:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 06:50:25 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 06:50:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 06:50:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 06:50:25 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 06:50:25 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 08:22:06 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 08:22:06 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 08:22:06 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 08:22:06 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 08:22:06 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 08:22:06 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 08:22:17 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 08:22:17 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 08:22:17 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 08:22:17 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 08:22:17 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 08:22:17 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 09:15:40 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 09:15:40 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 09:15:40 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 203
+[18-Jan-2026 09:15:40 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 09:15:40 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 09:15:40 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/agents.php on line 207
+[18-Jan-2026 09:55:06 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 09:55:06 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 09:55:06 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 09:55:06 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 09:55:06 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 09:55:06 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 09:55:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 09:55:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 09:55:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 130
+[18-Jan-2026 09:55:19 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 09:55:19 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 09:55:19 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/generate-link.php on line 134
+[18-Jan-2026 09:55:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 09:55:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 09:55:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 250
+[18-Jan-2026 09:55:21 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 09:55:21 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 09:55:21 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/links.php on line 254
+[18-Jan-2026 09:55:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/dashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/dashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 119
+[18-Jan-2026 10:00:44 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:00:44 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:00:44 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:00:44 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:00:44 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:00:44 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:01:15 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:01:15 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:01:15 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:01:15 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:01:15 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:01:15 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:01:45 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:01:45 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:01:45 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:01:45 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:01:45 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:01:45 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:02:16 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:02:16 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:02:16 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:02:16 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:02:16 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:02:16 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:02:46 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:02:46 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:02:46 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:02:46 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:02:46 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:02:46 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:03:17 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:03:17 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:03:17 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:03:17 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:03:17 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:03:17 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:03:48 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:03:48 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:03:48 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:03:48 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:03:48 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:03:48 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:04:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:04:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:04:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:04:19 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:04:19 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:04:19 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:04:50 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:04:50 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:04:50 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:04:50 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:04:50 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:04:50 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:05:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:05:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:05:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:05:20 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:05:20 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:05:20 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:05:51 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:05:51 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:05:51 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:05:51 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:05:51 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:05:51 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:06:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:06:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:06:22 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 244
+[18-Jan-2026 10:06:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:06:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 10:06:22 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/payments.php on line 248
+[18-Jan-2026 12:28:27 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 12:28:27 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 12:28:27 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 195
+[18-Jan-2026 12:28:27 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 12:28:27 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 12:28:27 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/hubb895940/public_html/upi.php on line 199
+[18-Jan-2026 15:29:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'session_id' in 'INSERT INTO' in /home/hubb895940/public_html/dashboard.php:119
+Stack trace:
+#0 /home/hubb895940/public_html/dashboard.php(119): PDO->prepare('INSERT INTO dev...')
+#1 /home/hubb895940/public_html/dashboard.php(404): trackLoginSession(Object(PDO), 1)
+#2 {main}
+  thrown in /home/hubb895940/public_html/dashboard.php on line 119
+[18-Jan-2026 15:31:15 UTC] PHP Warning:  A non-numeric value encountered in /home/hubb895940/public_html/settings.php on line 1175
